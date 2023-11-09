@@ -125,15 +125,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ## Step 4:  Creation of app.py
 
-Create a file `app.py`   with the following code:
-
-<script src="https://gist.github.com/ruslanmv/a85f5cef7930b75279d4dce022d38e46.js"></script>
-
-and we add the following CSS file `htmlTemplates.py`
-
-<script src="https://gist.github.com/ruslanmv/fe5751d684b60e2a70ae2b85dfbdf541.js"></script>
-
-
+Create a file `app.py`   with the code from [here](https://github.com/ruslanmv/ArXiv-Chatter-WatsonX/blob/master/app.py) and we add the following CSS file `htmlTemplates.py` from this code [here](https://github.com/ruslanmv/ArXiv-Chatter-WatsonX/blob/master/htmlTemplates.py)
 
 ## Step 5: Running your program
 
